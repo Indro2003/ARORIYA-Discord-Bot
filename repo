@@ -1,0 +1,2 @@
+npm init -y
+npm install discord.js mongoose axios ytdl-core openai node-cron express socket.io dotenv
